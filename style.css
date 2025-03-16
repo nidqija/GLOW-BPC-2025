@@ -2,7 +2,25 @@
 	background: url('https://upload.wikimedia.org/wikipedia/commons/4/4c/Sir_William_Osler_in_Edward_Jenner%27s_chair_in_the_room_of_th_Wellcome_V0026942.jpg');
     background-size: cover;
     background-position: 2px;
-    box-shadow: inset 0px 0px 400px 400px rgba(0, 0, 0, .7);"
+    box-shadow: inset 0px 0px 400px 400px rgba(0, 0, 0, .7);
 }
 
+
+#CommitteeCard{
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    border-bottom-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
+
+#CommitteeCardTitle{
+    text-align: center;
+    font-family: "Playfair Display";
+}
+
+#CommitteeCardDesc{
+    text-align: center;
+    font-size: 15px;
+    font-family: "Poppins";
+}
 
