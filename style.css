@@ -24,3 +24,13 @@
     font-family: "Poppins";
 }
 
+
+.sponsors{
+    background: url('https://clinicalresearch.my/wp-content/uploads/2016/06/1-Sub-banner-Prime-Site_Hospital-Kuala-Lumpur_Large.jpg');
+    background-size: cover;
+    background-position: 1px;
+    background-repeat: no-repeat;
+    box-shadow: inset 0px 0px 400px 1000px rgba(0, 0, 0, .7);
+    
+}
+
